@@ -1,0 +1,15 @@
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/bin/Debug/net6.0/GameStar
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/bin/Debug/net6.0/GameStar.deps.json
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/bin/Debug/net6.0/GameStar.runtimeconfig.json
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/bin/Debug/net6.0/GameStar.dll
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/bin/Debug/net6.0/GameStar.pdb
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.dll
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/refint/GameStar.dll
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.pdb
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/GameStar.genruntimeconfig.cache
+/Users/aubkhonabdullaev/Programming/CshTask/GameStar/obj/Debug/net6.0/ref/GameStar.dll
